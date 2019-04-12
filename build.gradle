@@ -22,8 +22,8 @@ apply plugin: 'maven'
 
 
 
-sourceCompatibility = 10
-targetCompatibility = 10
+sourceCompatibility = 1.10
+targetCompatibility = 1.10
 
 
 // In this section you declare where to find the dependencies of your project
